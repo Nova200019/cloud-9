@@ -4,7 +4,7 @@ Cloud9 is a modern, AI-powered cloud file storage and sharing platform. It enabl
 
 ---
 <p align="center">
-  <img src="./images/" alt="Cloud9 UI Screenshot" style="border: 2px solid #e5e7eb; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); max-width: 100%;">
+  <img src="./images/ui.png" alt="Cloud9 UI Screenshot" style="border: 2px solid #e5e7eb; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); max-width: 100%;">
 </p>
 
 [![Test Cloud9 in Production](https://img.shields.io/badge/Launch%20Cloud9-Production-blue?style=for-the-badge&logo=cloud)](https://cloud9ca3.azurewebsites.net/home)
