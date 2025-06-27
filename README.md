@@ -370,8 +370,8 @@ This structure ensures that image files are fully searchable and benefit from se
 ---
 
 ## Authors
-- Soumyadip Banerjee
-- Ajay Sah
+- [Soumyadip Banerjee](https://github.com/Nova200019)
+- 
 - [subnub](https://github.com/subnub)
 
 ---
